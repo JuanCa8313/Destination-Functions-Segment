@@ -1,6 +1,6 @@
 Send email with Personas connection
 
-![image](https://user-images.githubusercontent.com/108023571/183882100-c1605472-a1e5-4d9a-bd51-1507b84e2bda.png)
+![image](https://user-images.githubusercontent.com/108023571/183882234-2d26156c-9727-4875-a570-2ec46c1557b0.png)
 
 Send email direct
 
